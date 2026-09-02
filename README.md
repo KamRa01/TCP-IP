@@ -8,7 +8,7 @@ Vielen Dank für das Lesen dieser Dokumentation und Ihr Interesse an diesem Proj
 
 Ich möchte mich herzlich für Ihre Aufmerksamkeit während der Präsentation bedanken. 
 
-Es war mir eine Freude, Ihnen unsere Arbeit vorzustellen. 
+Es war mir eine Freude, Ihnen meine Arbeit vorzustellen. 
 
 Ich hoffe aufrichtig, dass die Vorstellung für Sie sowohl lehrreich als auch spannend war und Ihnen wertvolle Einblicke bieten konnte.
 
