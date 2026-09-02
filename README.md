@@ -12,9 +12,8 @@ Es war mir eine Freude, Ihnen unsere Arbeit vorzustellen.
 
 Ich hoffe aufrichtig, dass die Vorstellung für Sie sowohl lehrreich als auch spannend war und Ihnen wertvolle Einblicke bieten konnte.
 
-                                   /\_/\
-                                  ( o.o )  
-                                   > ^ < 
+
+
 
   .--.  .--.
  /    \/    \
@@ -23,7 +22,12 @@ Ich hoffe aufrichtig, dass die Vorstellung für Sie sowohl lehrreich als auch sp
    \      /
     \    /  - Lichen dank 
      \  /
-      \/
+      \/                           /\_/\
+                                  ( o.o )  
+                                   > ^ < 
+
+
+
 
 Liebe Grüsse 
 
