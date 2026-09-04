@@ -15,6 +15,7 @@ Ich hoffe aufrichtig, dass die Vorstellung für Sie sowohl lehrreich als auch sp
 
 
 
+ 
   .--.  .--.
  /    \/    \
  \          /
