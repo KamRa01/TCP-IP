@@ -5,6 +5,8 @@ Hallo
 
 Vielen Dank für das Lesen dieser Dokumentation und Ihr Interesse an diesem Projekt.
 
+Das gezeigte Bild stammt aus dem Netzwerkanalyse-Tool Wireshark und schlüsselt genau den TCP-Header auf, den wir zuvor besprochen haben. Es handelt sich hierbei um ein echtes, konkretes Datenpaket.
+
 
 Ich möchte mich herzlich für Ihre Aufmerksamkeit während der Präsentation bedanken. 
 
@@ -16,16 +18,9 @@ Ich hoffe aufrichtig, dass die Vorstellung für Sie sowohl lehrreich als auch sp
 
 
  
-  .--.  .--.
- /    \/    \
- \          /
-  \        /
-   \      /
-    \    /  - Lichen dank 
-     \  /
-      \/                           /\_/\
-                                  ( o.o )  
-                                   > ^ < 
+     /\_/\
+    ( o.o )  
+     > ^ < 
 
 
 
@@ -33,3 +28,5 @@ Ich hoffe aufrichtig, dass die Vorstellung für Sie sowohl lehrreich als auch sp
 Liebe Grüsse 
 
 Rafal Kaminski
+
+
